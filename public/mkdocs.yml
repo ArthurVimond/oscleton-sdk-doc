@@ -23,13 +23,21 @@ nav:
   - Introduction: index.md
   - Getting started:
     - Prerequisite: getting-started/prerequisite.md
-    - Android project setup: getting-started/android-project-setup.md
-    - Configuration: getting-started/configuration.md
-    - Controller: getting-started/controller.md
-    - Receiver: getting-started/receiver.md
+    - Android:
+      - Project setup: getting-started/android/project-setup.md
+      - Configuration: getting-started/android/configuration.md
+      - Controller: getting-started/android/controller.md
+      - Receiver: getting-started/android/receiver.md
+    - iOS:
+      - Project setup: getting-started/ios/project-setup.md
+      - Configuration: getting-started/ios/configuration.md
+      - Controller: getting-started/ios/controller.md
+      - Receiver: getting-started/ios/receiver.md
+    
+    
 
   - Android API reference:
-    - Package Index: android-reference/index.md
+    - Package Index: reference/android/index.md
     - SDK:
       - Overview: android-reference/com.oscleton.sdk/index.md
       - OscletonSDK: android-reference/com.oscleton.sdk/-oscleton-s-d-k/index.md
@@ -65,12 +73,12 @@ nav:
 #      - MathUtils: android-reference/com.oscleton.sdk.utils/-math-utils/index.md
       - NetworkUtils: android-reference/com.oscleton.sdk.utils/-network-utils/index.md
 
-  # - iOS API reference:
-  #   - Overview: ios-reference/README.md
-  #   - SDK:
-  #     - OscletonSDK: ios-reference/classes/OscletonSDK.md
-  #     - Configuration: ios-reference/classes/OSConfiguration.md
-  #     - Controller: ios-reference/classes/OSController.md
+  - iOS API reference:
+    - Overview: reference/ios/README.md
+    - SDK:
+      - OscletonSDK: ios-reference/classes/OscletonSDK.md
+      - Configuration: ios-reference/classes/OSConfiguration.md
+      - Controller: ios-reference/classes/OSController.md
 
   - More:
     - Changelog: more/changelog.md

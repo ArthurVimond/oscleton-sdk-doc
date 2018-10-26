@@ -69,5 +69,4 @@ node_modules/
 
 # MkDocs
 public/site
-public/docs/android-reference
-public/docs/ios-reference
+public/docs/reference

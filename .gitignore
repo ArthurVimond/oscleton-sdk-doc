@@ -63,3 +63,11 @@ node_modules/
 
 # dotenv environment variables file
 .env
+
+# Mac
+.DS_Store
+
+# MkDocs
+public/site
+public/docs/android-reference
+public/docs/ios-reference

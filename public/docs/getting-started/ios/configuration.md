@@ -1,7 +1,5 @@
 # Configuration
 
-_to change_
-
 In order to connect your iOS device to your computer running Ableton Live, you first have to configure
 Oscleton SDK. Hunder the hood, it uses the Open Sound Control protocol to send and receive OSC messages.
 The only needed information is the computer IP address.
@@ -20,9 +18,9 @@ ipconfig
 To set the computer IP address in Oscleton SDK, use the corresponding API as follow:
 
 ``` swift
-OscletonSDK.instance.config.setComputerIP("127.0.0.1")
+OscletonSDK.instance.config.setComputerIP(ip: "127.0.0.1")
 ```
 
 ``` objective-c
-OscletonSDK.getInstance().getConfig().setComputerIP("127.0.0.1");
+[[[OscletonSDK instance] configuration] setComputerIP:@"127.0.0.1"];
 ```

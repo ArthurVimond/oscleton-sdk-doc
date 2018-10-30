@@ -1,50 +1,22 @@
 # Receiver
 
-_to change_
-
-In order to listen for incoming changes from your Live set, two implementations are available:
-
-- ReactiveReceiver
-- CallbackReceiver
+In order to listen for incoming changes from your Live set, use OSReactiveReceiver.
 
 ## ReactiveReceiver
 
-[ReactiveReceiver](../api-reference/com.oscleton.sdk/-reactive-receiver/)
-provides RxJava Observables to subscribe to, emitting each Live set change independently.
-Using RxJava Observables, you can create as many observers as you want.
+[OSReactiveReceiver](../../../reference/ios/classes/OSReactiveReceiver)
+provides RxSwift Observables to subscribe to, emitting each Live set change independently.
+Using RxSwift Observables, you can create as many observers as you want.
 
 As an example, the following snippet listens for tempo changes:
 
 ``` swift
 OscletonSDK.instance.receiver.rx.tempo
-    .subscribe { tempo ->
+    .subscribe(onNext: { tempo in
         // Do any needed logic
-    }
+    })
 ```
 
 ``` objective-c
-OscletonSDK.getInstance().getReceiver().getReactiveReceiver().getTempo()
-    .subscribe(tempo -> {
-        // Do any needed logic
-    });
-```
-
-## CallbackReceiver
-
-[CallbackReceiver](../api-reference/com.oscleton.sdk/-callback-receiver/)
-provides listeners to be set independently, triggered for each Live set change.
-Note: Only one listener can be set for a specific Live set change at a time.
-
-As an example, the following snippet listens for tempo changes:
-
-``` swift
-OscletonSDK.instance.receiver.cb.set(OnTempoChangeListener { tempo ->
-    // Do any needed logic
-})
-```
-
-``` objective-c
-OscletonSDK.getInstance().getReceiver().getCallbackReceiver().set((OnTempoChangeListener) tempo -> {
-    // Do any needed logic
-});
+// To implement
 ```

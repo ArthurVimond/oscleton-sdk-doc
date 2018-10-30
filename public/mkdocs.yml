@@ -51,6 +51,7 @@ nav:
     - Enums:
       - Overview: reference/android/com.oscleton.sdk.enums/index.md
 #      - ClipState: reference/android/com.oscleton.sdk.enums/-clip-state/index.md
+      - SDKResult: reference/android/com.oscleton.sdk.enums/-s-d-k-result/index.md
       - TrackType: reference/android/com.oscleton.sdk.enums/-track-type/index.md
     - Exceptions:
       - Overview: reference/android/com.oscleton.sdk.exceptions/index.md
@@ -79,10 +80,17 @@ nav:
     - Overview: reference/ios/README.md
     - SDK:
       - OscletonSDK: reference/ios/classes/OscletonSDK.md
-      - Configuration: reference/ios/classes/OSConfiguration.md
-      - Controller: reference/ios/classes/OSController.md
-      - Receiver: reference/ios/classes/OSReceiver.md
-      - ReactiveReceiver: reference/ios/classes/OSReactiveReceiver.md
+      - OSConfiguration: reference/ios/classes/OSConfiguration.md
+      - OSController: reference/ios/classes/OSController.md
+      - OSReceiver: reference/ios/classes/OSReceiver.md
+      - OSReactiveReceiver: reference/ios/classes/OSReactiveReceiver.md
+    - Enums:
+      - OSResult: reference/ios/enums/OSResult.md
+      - OSTrackType: reference/ios/enums/OSTrackType.md
+    - Models:
+      - OSDevice: reference/ios/classes/OSDevice.md
+      - OSDeviceParameter: reference/ios/classes/OSDeviceParameter.md
+      - OSTrack: reference/ios/classes/OSTrack.md
 
   - More:
     - Changelog: more/changelog.md

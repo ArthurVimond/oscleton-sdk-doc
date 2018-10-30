@@ -8,6 +8,8 @@ theme:
   language: en
   feature:
     tabs: true
+  logo: "assets/images/icon-white.png"
+  custom_dir: 'theme'
 
 extra:
   version: 0.1

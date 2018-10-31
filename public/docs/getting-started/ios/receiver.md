@@ -1,6 +1,9 @@
 # Receiver
 
-In order to listen for incoming changes from your Live set, use OSReactiveReceiver.
+In order to listen for incoming changes from your Live set, two implementations are available:
+
+- OSReactiveReceiver
+- OSCallbackReceiver
 
 ## ReactiveReceiver
 
@@ -18,5 +21,25 @@ OscletonSDK.instance.receiver.rx.tempo
 ```
 
 ``` objective-c
-// To implement
+// Not available
+```
+
+## CallbackReceiver
+
+[OSCallbackReceiver](../../../reference/ios/classes/OSCallbackReceiver)
+provides listeners to be set independently, triggered for each Live set change.
+Note: Only one callback can be set for a specific Live set change at a time.
+
+As an example, the following snippet listens for tempo changes:
+
+``` swift
+OscletonSDK.instance.receiver.cb.setOnDeviceParameterChangeCallback { deviceParameter in
+    // Do any needed logic
+}
+```
+
+``` objective-c
+[[[[OscletonSDK instance] receiver] cb] setOnDeviceParameterChangeCallback:^(OSDeviceParameter* deviceParameter) {
+    // Do any needed logic
+}];
 ```

@@ -26,18 +26,16 @@ nav:
   - Getting started:
     - Prerequisite: getting-started/prerequisite.md
     - Android:
-      - Project setup: getting-started/android/project-setup.md
+      - Android project setup: getting-started/android/project-setup.md
       - Configuration: getting-started/android/configuration.md
       - Controller: getting-started/android/controller.md
       - Receiver: getting-started/android/receiver.md
     - iOS:
-      - Project setup: getting-started/ios/project-setup.md
+      - iOS project setup: getting-started/ios/project-setup.md
       - Configuration: getting-started/ios/configuration.md
       - Controller: getting-started/ios/controller.md
       - Receiver: getting-started/ios/receiver.md
     
-    
-
   - Android API reference:
     - Package Index: reference/android/index.md
     - SDK:

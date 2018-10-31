@@ -84,6 +84,7 @@ nav:
       - OSController: reference/ios/classes/OSController.md
       - OSReceiver: reference/ios/classes/OSReceiver.md
       - OSReactiveReceiver: reference/ios/classes/OSReactiveReceiver.md
+      - OSCallbackReceiver: reference/ios/classes/OSCallbackReceiver.md
     - Enums:
       - OSResult: reference/ios/enums/OSResult.md
       - OSTrackType: reference/ios/enums/OSTrackType.md

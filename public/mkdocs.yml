@@ -92,7 +92,8 @@ nav:
       - OSTrack: reference/ios/classes/OSTrack.md
 
   - More:
-    - Changelog: more/changelog.md
+    - Android Changelog: more/android-changelog.md
+    - iOS Changelog: more/ios-changelog.md
     - Feedback and issues: more/feedback-and-issues.md
     - License: more/license.md
 

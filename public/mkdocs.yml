@@ -15,7 +15,7 @@ extra:
   version: 0.1
   social:
     - type: 'globe'
-      link: 'http://arthurvimond.fr'
+      link: 'https://arthurvimond.fr'
     - type: 'github'
       link: 'https://github.com/arthurvimond'
     - type: 'linkedin'

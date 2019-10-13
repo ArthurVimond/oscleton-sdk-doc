@@ -48,7 +48,7 @@ nav:
       - CallbackReceiver: reference/android/com.oscleton.sdk/-callback-receiver/index.md
     - Enums:
       - Overview: reference/android/com.oscleton.sdk.enums/index.md
-#      - ClipState: reference/android/com.oscleton.sdk.enums/-clip-state/index.md
+      - AutomationState: reference/android/com.oscleton.sdk.enums/-automation-state/index.md
       - SDKResult: reference/android/com.oscleton.sdk.enums/-s-d-k-result/index.md
       - TrackType: reference/android/com.oscleton.sdk.enums/-track-type/index.md
     - Exceptions:
@@ -64,6 +64,7 @@ nav:
       - Device: reference/android/com.oscleton.sdk.models/-device/index.md
       - DeviceParameter: reference/android/com.oscleton.sdk.models/-device-parameter/index.md
       - Track: reference/android/com.oscleton.sdk.models/-track/index.md
+      - TrackParameter: reference/android/com.oscleton.sdk.models/-track-parameter/index.md
     - Utils:
       - Overview: reference/android/com.oscleton.sdk.utils/index.md
       - Empty: reference/android/com.oscleton.sdk.utils/-empty/index.md

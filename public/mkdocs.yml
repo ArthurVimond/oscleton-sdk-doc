@@ -61,17 +61,12 @@ nav:
       - OnTempoChangeListener: reference/android/com.oscleton.sdk.listeners/-on-tempo-change-listener/index.md
     - Models:
       - Overview: reference/android/com.oscleton.sdk.models/index.md
-#      - Clip: reference/android/com.oscleton.sdk.models/-clip/index.md
-#      - ClipSlot: reference/android/com.oscleton.sdk.models/-clip-slot/index.md
       - Device: reference/android/com.oscleton.sdk.models/-device/index.md
       - DeviceParameter: reference/android/com.oscleton.sdk.models/-device-parameter/index.md
-#      - Scene: reference/android/com.oscleton.sdk.models/-scene/index.md
       - Track: reference/android/com.oscleton.sdk.models/-track/index.md
     - Utils:
       - Overview: reference/android/com.oscleton.sdk.utils/index.md
       - Empty: reference/android/com.oscleton.sdk.utils/-empty/index.md
-#      - FormatUtils: reference/android/com.oscleton.sdk.utils/-format-utils/index.md
-#      - MathUtils: reference/android/com.oscleton.sdk.utils/-math-utils/index.md
       - NetworkUtils: reference/android/com.oscleton.sdk.utils/-network-utils/index.md
 
   - iOS API reference:
@@ -110,5 +105,4 @@ extra_javascript:
   - js/tabhack.js
 
 extra_css:
-#  - 'css/general.css'
   - 'css/code-tabs.css'

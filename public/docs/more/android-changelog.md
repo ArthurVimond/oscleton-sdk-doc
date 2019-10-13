@@ -2,6 +2,12 @@
 
 The format is based on [Keep a Changelog] and this project adheres to [Semantic Versioning].
 
+## [0.4.0] - 2019-10-13
+
+### Added
+- Receiver: implement trackParameter APIs for track volume changes
+- DeviceParameter: add automationState property
+
 ## [0.3.0] - 2018-09-25
 
 ### Changed
@@ -26,6 +32,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 
 
+[0.4.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.4.0
 [0.3.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.3.0
 [0.2.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.2.0
 [0.1.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.1.0

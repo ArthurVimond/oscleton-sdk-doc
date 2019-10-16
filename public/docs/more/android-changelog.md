@@ -5,7 +5,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 ## [0.5.0] - 2019-10-16
 
 ### Added
-- Configuration: enable / disable LiveParameter APIs
+- Configuration: implement enable / disable LiveParameter APIs
 
 ### Changed
 - Core: migrate to AndroidX

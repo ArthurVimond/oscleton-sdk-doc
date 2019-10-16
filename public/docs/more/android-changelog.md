@@ -2,6 +2,14 @@
 
 The format is based on [Keep a Changelog] and this project adheres to [Semantic Versioning].
 
+## [0.5.0] - 2019-10-16
+
+### Added
+- Configuration: enable / disable LiveParameter APIs
+
+### Changed
+- Core: migrate to AndroidX
+
 ## [0.4.0] - 2019-10-13
 
 ### Added
@@ -32,6 +40,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 
 
+[0.5.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.5.0
 [0.4.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.4.0
 [0.3.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.3.0
 [0.2.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.2.0

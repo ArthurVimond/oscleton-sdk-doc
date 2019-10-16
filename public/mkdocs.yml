@@ -48,6 +48,7 @@ nav:
       - CallbackReceiver: reference/android/com.oscleton.sdk/-callback-receiver/index.md
     - Enums:
       - Overview: reference/android/com.oscleton.sdk.enums/index.md
+      - LiveParameter: reference/android/com.oscleton.sdk.enums/-live-parameter/index.md
       - AutomationState: reference/android/com.oscleton.sdk.enums/-automation-state/index.md
       - SDKResult: reference/android/com.oscleton.sdk.enums/-s-d-k-result/index.md
       - TrackType: reference/android/com.oscleton.sdk.enums/-track-type/index.md

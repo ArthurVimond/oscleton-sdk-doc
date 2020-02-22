@@ -2,6 +2,13 @@
 
 The format is based on [Keep a Changelog] and this project adheres to [Semantic Versioning].
 
+## [0.6.0] - 2020-02-22
+
+### Added
+- Configuration: implement onConnectionError API
+- Configuration: implement onStart / onQuit APIs
+- Configuration: implement computer IP discovery APIs
+
 ## [0.5.0] - 2019-10-16
 
 ### Added
@@ -40,6 +47,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 
 
+[0.6.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.6.0
 [0.5.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.5.0
 [0.4.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.4.0
 [0.3.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.3.0

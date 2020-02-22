@@ -1,7 +1,7 @@
 site_name: Oscleton SDK Documentation
 site_description: Ableton Live companion SDK for Android
 
-copyright: 'Copyright © 2018-2019 Arthur Vimond'
+copyright: 'Copyright © 2018-2020 Arthur Vimond'
 
 theme: 
   name: 'material'

@@ -2,6 +2,19 @@
 
 The format is based on [Keep a Changelog] and this project adheres to [Semantic Versioning].
 
+## [0.7.0] - 2020-02-25
+
+### Added
+- Configuration: onComputerIPDiscoveryCancel Observable API
+- Configuration: OnComputerIPDiscoveryCancelListener
+- ReactiveReceiver: returnParameter Observable API
+- ReactiveReceiver: masterParameter Observable API
+- CallbackReceiver: OnReturnParameterChangeListener API
+- CallbackReceiver: OnMasterParameterChangeListener API
+
+### Deleted
+- Models: Track
+
 ## [0.6.0] - 2020-02-22
 
 ### Added
@@ -47,6 +60,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 
 
+[0.7.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.7.0
 [0.6.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.6.0
 [0.5.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.5.0
 [0.4.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.4.0

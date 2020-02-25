@@ -57,14 +57,25 @@ nav:
       - OscletonSDKException: reference/android/com.oscleton.sdk.exceptions/-oscleton-s-d-k-exception/index.md
     - Listeners:
       - Overview: reference/android/com.oscleton.sdk.listeners/index.md
+      - OnComputerIPDiscoveryCancelListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-cancel-listener/index.md
+      - OnComputerIPDiscoveryProgressListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-progress-listener/index.md
+      - OnComputerIPDiscoveryStartListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-start-listener/index.md
+      - OnComputerIPDiscoverySuccessListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-success-listener/index.md
+      - OnConnectionErrorListener: reference/android/com.oscleton.sdk.listeners/-on-connection-error-listener/index.md
       - OnConnectionSuccessListener: reference/android/com.oscleton.sdk.listeners/-on-connection-success-listener/index.md
       - OnDeviceParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-device-parameter-change-listener/index.md
+      - OnMasterParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-master-parameter-change-listener/index.md
+      - OnQuitListener: reference/android/com.oscleton.sdk.listeners/-on-quit-listener/index.md
+      - OnReturnParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-return-parameter-change-listener/index.md
+      - OnStartListener: reference/android/com.oscleton.sdk.listeners/-on-start-listener/index.md
       - OnTempoChangeListener: reference/android/com.oscleton.sdk.listeners/-on-tempo-change-listener/index.md
+      - OnTrackParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-track-parameter-change-listener/index.md
     - Models:
       - Overview: reference/android/com.oscleton.sdk.models/index.md
       - Device: reference/android/com.oscleton.sdk.models/-device/index.md
       - DeviceParameter: reference/android/com.oscleton.sdk.models/-device-parameter/index.md
-      - Track: reference/android/com.oscleton.sdk.models/-track/index.md
+      - MasterParameter: reference/android/com.oscleton.sdk.models/-master-parameter/index.md
+      - ReturnParameter: reference/android/com.oscleton.sdk.models/-return-parameter/index.md
       - TrackParameter: reference/android/com.oscleton.sdk.models/-track-parameter/index.md
     - Utils:
       - Overview: reference/android/com.oscleton.sdk.utils/index.md

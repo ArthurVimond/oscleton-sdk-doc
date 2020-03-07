@@ -2,6 +2,26 @@
 
 The format is based on [Keep a Changelog] and this project adheres to [Semantic Versioning].
 
+## [0.8.0] - 2020-03-07
+
+### Added
+- ReactiveReceiver: trackSend Observable API
+- ReactiveReceiver: trackDeviceParameter Observable API
+- CallbackReceiver: OnTrackSendChangeListener API
+- CallbackReceiver: OnTrackDeviceParameterChangeListener API
+- Configuration: setAppTrack() API
+- Models: Send
+- Enums: SendState
+- Enums: SendType
+- Enums: AppTrack
+
+### Changed
+- Enums: TrackType
+
+### Deprecated
+- ReactiveReceiver: deviceParameter Observable API
+- CallbackReceiver: OnDeviceParameterChangeListener API
+
 ## [0.7.0] - 2020-02-25
 
 ### Added
@@ -60,6 +80,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 
 
+[0.8.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.8.0
 [0.7.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.7.0
 [0.6.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.6.0
 [0.5.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.5.0

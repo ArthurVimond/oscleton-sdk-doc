@@ -48,9 +48,12 @@ nav:
       - CallbackReceiver: reference/android/com.oscleton.sdk/-callback-receiver/index.md
     - Enums:
       - Overview: reference/android/com.oscleton.sdk.enums/index.md
-      - LiveParameter: reference/android/com.oscleton.sdk.enums/-live-parameter/index.md
+      - AppTrack: reference/android/com.oscleton.sdk.enums/-app-track/index.md
       - AutomationState: reference/android/com.oscleton.sdk.enums/-automation-state/index.md
+      - LiveParameter: reference/android/com.oscleton.sdk.enums/-live-parameter/index.md
       - SDKResult: reference/android/com.oscleton.sdk.enums/-s-d-k-result/index.md
+      - SendState: reference/android/com.oscleton.sdk.enums/-send-state/index.md
+      - SendType: reference/android/com.oscleton.sdk.enums/-send-type/index.md
       - TrackType: reference/android/com.oscleton.sdk.enums/-track-type/index.md
     - Exceptions:
       - Overview: reference/android/com.oscleton.sdk.exceptions/index.md
@@ -58,6 +61,7 @@ nav:
     - Listeners:
       - Overview: reference/android/com.oscleton.sdk.listeners/index.md
       - OnComputerIPDiscoveryCancelListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-cancel-listener/index.md
+      - OnComputerIPDiscoveryErrorListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-error-listener/index.md
       - OnComputerIPDiscoveryProgressListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-progress-listener/index.md
       - OnComputerIPDiscoveryStartListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-start-listener/index.md
       - OnComputerIPDiscoverySuccessListener: reference/android/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-success-listener/index.md
@@ -69,13 +73,16 @@ nav:
       - OnReturnParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-return-parameter-change-listener/index.md
       - OnStartListener: reference/android/com.oscleton.sdk.listeners/-on-start-listener/index.md
       - OnTempoChangeListener: reference/android/com.oscleton.sdk.listeners/-on-tempo-change-listener/index.md
+      - OnTrackDeviceParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-track-device-parameter-change-listener/index.md
       - OnTrackParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-track-parameter-change-listener/index.md
+      - OnTrackSendChangeListener: reference/android/com.oscleton.sdk.listeners/-on-track-send-change-listener/index.md
     - Models:
       - Overview: reference/android/com.oscleton.sdk.models/index.md
       - Device: reference/android/com.oscleton.sdk.models/-device/index.md
       - DeviceParameter: reference/android/com.oscleton.sdk.models/-device-parameter/index.md
       - MasterParameter: reference/android/com.oscleton.sdk.models/-master-parameter/index.md
       - ReturnParameter: reference/android/com.oscleton.sdk.models/-return-parameter/index.md
+      - Send: reference/android/com.oscleton.sdk.models/-send/index.md
       - TrackParameter: reference/android/com.oscleton.sdk.models/-track-parameter/index.md
     - Utils:
       - Overview: reference/android/com.oscleton.sdk.utils/index.md

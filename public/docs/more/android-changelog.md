@@ -2,6 +2,17 @@
 
 The format is based on [Keep a Changelog] and this project adheres to [Semantic Versioning].
 
+## [0.9.0] - 2020-03-18
+
+### Added
+- ReactiveReceiver: returnDeviceParameter Observable API
+- ReactiveReceiver: masterDeviceParameter Observable API
+- CallbackReceiver: OnReturnDeviceParameterChangeListener API
+- CallbackReceiver: OnMasterDeviceParameterChangeListener API
+
+### Changed
+- Send: round displayVolume to 1 decimal
+
 ## [0.8.0] - 2020-03-07
 
 ### Added
@@ -80,6 +91,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 
 
+[0.9.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.9.0
 [0.8.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.8.0
 [0.7.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.7.0
 [0.6.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.6.0

@@ -68,6 +68,7 @@ nav:
       - OnConnectionErrorListener: reference/android/com.oscleton.sdk.listeners/-on-connection-error-listener/index.md
       - OnConnectionSuccessListener: reference/android/com.oscleton.sdk.listeners/-on-connection-success-listener/index.md
       - OnDeviceParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-device-parameter-change-listener/index.md
+      - OnMasterDeviceParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-master-device-parameter-change-listener/index.md
       - OnMasterParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-master-parameter-change-listener/index.md
       - OnQuitListener: reference/android/com.oscleton.sdk.listeners/-on-quit-listener/index.md
       - OnReturnParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-return-parameter-change-listener/index.md

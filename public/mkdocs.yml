@@ -71,6 +71,7 @@ nav:
       - OnMasterDeviceParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-master-device-parameter-change-listener/index.md
       - OnMasterParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-master-parameter-change-listener/index.md
       - OnQuitListener: reference/android/com.oscleton.sdk.listeners/-on-quit-listener/index.md
+      - OnReturnDeviceParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-return-device-parameter-change-listener/index.md
       - OnReturnParameterChangeListener: reference/android/com.oscleton.sdk.listeners/-on-return-parameter-change-listener/index.md
       - OnStartListener: reference/android/com.oscleton.sdk.listeners/-on-start-listener/index.md
       - OnTempoChangeListener: reference/android/com.oscleton.sdk.listeners/-on-tempo-change-listener/index.md

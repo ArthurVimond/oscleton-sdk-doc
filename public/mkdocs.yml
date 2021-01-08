@@ -30,6 +30,7 @@ nav:
       - Configuration: getting-started/android/configuration.md
       - LiveSet: getting-started/android/liveset.md
       - Tracks: getting-started/android/tracks.md
+      - Devices: getting-started/android/devices.md
       - Controller: getting-started/android/controller.md
       - Receiver: getting-started/android/receiver.md
     - iOS:

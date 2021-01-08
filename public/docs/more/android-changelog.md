@@ -2,6 +2,41 @@
 
 The format is based on [Keep a Changelog] and this project adheres to [Semantic Versioning].
 
+## [1.0.0] - 2020-12-17
+
+### Added
+
+#### core
+- LiveSet
+- Tracks
+- Devices
+- Browser
+
+#### core-rxjava2
+- ConfigurationRx
+- LiveSetRx
+- TracksRx
+- DevicesRx
+
+#### core-callbacks
+- ConfigurationCallbacks
+- LiveSetCallbacks
+- TracksCallbacks
+- DevicesCallbacks
+
+### Changed
+- Update compileSdkVersion to 29
+
+### Deprecated
+- Listeners from 'core' in favour of 'core-callbacks'
+- Receiver
+- ReactiveReceiver
+- CallbackReceiver
+- Controller
+
+### Removed
+OnDeviceParameterChangeListener: use OnTrackDeviceParameterChangeListener instead
+
 ## [0.9.0] - 2020-03-18
 
 ### Added
@@ -91,6 +126,7 @@ The format is based on [Keep a Changelog] and this project adheres to [Semantic 
 
 
 
+[1.0.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/1.0.0
 [0.9.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.9.0
 [0.8.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.8.0
 [0.7.0]: https://github.com/ArthurVimond/oscleton-android-sdk/releases/tag/0.7.0

@@ -12,7 +12,7 @@ theme:
   custom_dir: 'theme'
 
 extra:
-  version: 0.1
+  version: 1.0
   social:
     - type: 'globe'
       link: 'https://arthurvimond.fr'

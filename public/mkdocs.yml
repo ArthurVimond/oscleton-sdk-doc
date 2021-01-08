@@ -28,6 +28,7 @@ nav:
     - Android:
       - Android project setup: getting-started/android/project-setup.md
       - Configuration: getting-started/android/configuration.md
+      - LiveSet: getting-started/android/liveset.md
       - Controller: getting-started/android/controller.md
       - Receiver: getting-started/android/receiver.md
     - iOS:

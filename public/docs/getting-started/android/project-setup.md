@@ -2,11 +2,29 @@
 
 ### Dependency
 
-Include the dependency in your module's `build.gradle` file:
+Include the base dependency in your module's `build.gradle` file:
 
 ``` groovy
 dependencies {
-   implementation "com.oscleton.sdk:core:0.9.0"
+   implementation "com.oscleton.sdk:core:1.0.0"
+}
+```
+
+Additionally to the 'core' artifact, add the 'core-rxjava2' artifact in order to listen for Live data changes with RxJava streams:
+
+``` groovy
+dependencies {
+   implementation 'com.oscleton.sdk:core:1.0.0'
+   implementation 'com.oscleton.sdk:core-rxjava2:1.0.0'
+}
+```
+
+If you prefer to use callbacks, add the 'core-callbacks' artifact in order to listen for Live data changes with callbacks:
+
+``` groovy
+dependencies {
+   implementation 'com.oscleton.sdk:core:1.0.0'
+   implementation 'com.oscleton.sdk:core-callbacks:1.0.0'
 }
 ```
 

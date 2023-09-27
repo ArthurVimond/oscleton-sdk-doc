@@ -72,6 +72,6 @@ browser.loadBrowserItem(uri);
 
 
 
-[Browser]:          ../../../reference/android/core/com.oscleton.sdk.browser/-browser/
-[BrowserItem]:      ../../../reference/android/core/com.oscleton.sdk.browser.models/-browser-item/
+[Browser]:          ../../../reference/android/core/core/com.oscleton.sdk.browser/-browser/
+[BrowserItem]:      ../../../reference/android/core/core/com.oscleton.sdk.browser.models/-browser-item/
 [Paging Library]:   https://developer.android.com/topic/libraries/architecture/paging

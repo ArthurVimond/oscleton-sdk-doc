@@ -47,7 +47,7 @@ To know which parameter is changing, check the `paramIndex` or `paramName` prope
 
 
 
-[Tracks]:          ../../../reference/android/core/com.oscleton.sdk.tracks/-tracks/
-[TracksRx]:        ../../../reference/android/core-rxjava2/com.oscleton.sdk.rx/-tracks-rx/
-[TracksCallbacks]: ../../../reference/android/core-callbacks/com.oscleton.sdk.callbacks.tracks/-tracks-callbacks/
-[TrackParameter]:  ../../../reference/android/core/com.oscleton.sdk.models/-track-parameter/
+[Tracks]:          ../../../reference/android/core/core/com.oscleton.sdk.tracks/-tracks/
+[TracksRx]:        ../../../reference/android/core-rxjava2/core-rxjava2/com.oscleton.sdk.rx/-tracks-rx/
+[TracksCallbacks]: ../../../reference/android/core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.tracks/-tracks-callbacks/
+[TrackParameter]:  ../../../reference/android/core/core/com.oscleton.sdk.models/-track-parameter/

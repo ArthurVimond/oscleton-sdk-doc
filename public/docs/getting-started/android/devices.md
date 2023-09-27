@@ -44,6 +44,6 @@ cb.set((OnTrackDeviceParameterChangeListener) trackDeviceParameter -> {
 
 
 
-[Devices]:          ../../../reference/android/core/com.oscleton.sdk.devices/-devices/
-[DevicesRx]:        ../../../reference/android/core-rxjava2/com.oscleton.sdk.rx/-devices-rx/
-[DevicesCallbacks]: ../../../reference/android/core-callbacks/com.oscleton.sdk.callbacks.devices/-devices-callbacks/
+[Devices]:          ../../../reference/android/core/core/com.oscleton.sdk.devices/-devices/
+[DevicesRx]:        ../../../reference/android/core-rxjava2/core-rxjava2/com.oscleton.sdk.rx/-devices-rx/
+[DevicesCallbacks]: ../../../reference/android/core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.devices/-devices-callbacks/

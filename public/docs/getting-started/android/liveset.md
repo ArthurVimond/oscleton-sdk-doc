@@ -54,6 +54,6 @@ cb.set((OnTempoChangeListener) tempo -> {
 
 
 
-[LiveSet]:          ../../../reference/android/core/com.oscleton.sdk.liveset/-live-set/
-[LiveSetRx]:        ../../../reference/android/core-rxjava2/com.oscleton.sdk.rx/-live-set-rx/
-[LiveSetCallbacks]: ../../../reference/android/core-callbacks/com.oscleton.sdk.callbacks.liveset/-live-set-callbacks/
+[LiveSet]:          ../../../reference/android/core/core/com.oscleton.sdk.liveset/-live-set/
+[LiveSetRx]:        ../../../reference/android/core-rxjava2/core-rxjava2/com.oscleton.sdk.rx/-live-set-rx/
+[LiveSetCallbacks]: ../../../reference/android/core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.liveset/-live-set-callbacks/

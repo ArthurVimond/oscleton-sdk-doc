@@ -82,5 +82,5 @@ cb.set((OnComputerIPDiscoverySuccessListener) computerIP -> {
 
 
 
-[ConfigurationRx]:        ../../../reference/android/core-rxjava2/com.oscleton.sdk.rx/-configuration-rx/
-[ConfigurationCallbacks]: ../../../reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration/-configuration-callbacks/
+[ConfigurationRx]:        ../../../reference/android/core-rxjava2/core-rxjava2/com.oscleton.sdk.rx/-configuration-rx/
+[ConfigurationCallbacks]: ../../../reference/android/core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration/-configuration-callbacks/

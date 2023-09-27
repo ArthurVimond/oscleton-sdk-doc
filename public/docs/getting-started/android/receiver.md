@@ -11,7 +11,7 @@ In order to listen for incoming changes from your Live set, two implementations 
 
 *This class is deprecated and will be removed in version 1.1.0.*
 
-[ReactiveReceiver](../../../reference/android/core/com.oscleton.sdk/-reactive-receiver/)
+[ReactiveReceiver](../../../reference/android/core/core/com.oscleton.sdk/-reactive-receiver/)
 provides RxJava Observables to subscribe to, emitting each Live set change independently.
 Using RxJava Observables, you can create as many observers as you want.
 
@@ -35,7 +35,7 @@ OscletonSDK.getInstance().getReceiver().getReactiveReceiver().getTempo()
 
 *This class is deprecated and will be removed in version 1.1.0.*
 
-[CallbackReceiver](../../../reference/android/core/com.oscleton.sdk/-callback-receiver/)
+[CallbackReceiver](../../../reference/android/core/core/com.oscleton.sdk/-callback-receiver/)
 provides listeners to be set independently, triggered for each Live set change.
 Note: Only one listener can be set for a specific Live set change at a time.
 

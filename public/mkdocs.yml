@@ -44,112 +44,112 @@ nav:
     - core:
       - Package Index: reference/android/core/index.md
       - SDK:
-        - Overview: reference/android/core/com.oscleton.sdk/index.md
-        - OscletonSDK: reference/android/core/com.oscleton.sdk/-oscleton-s-d-k/index.md
-        - Browser: reference/android/core/com.oscleton.sdk.browser/-browser/index.md
-        - Configuration: reference/android/core/com.oscleton.sdk.configuration/-configuration/index.md
-        - Controller: reference/android/core/com.oscleton.sdk/-controller/index.md
-        - Devices: reference/android/core/com.oscleton.sdk.devices/-devices.md
-        - LiveSet: reference/android/core/com.oscleton.sdk.liveset/-live-set/index.md
-        - Receiver: reference/android/core/com.oscleton.sdk/-receiver/index.md
-        - ReactiveReceiver: reference/android/core/com.oscleton.sdk/-reactive-receiver/index.md
-        - CallbackReceiver: reference/android/core/com.oscleton.sdk/-callback-receiver/index.md
-        - Tracks: reference/android/core/com.oscleton.sdk.tracks/-tracks.md
+        - Overview: reference/android/core/core/com.oscleton.sdk/index.md
+        - OscletonSDK: reference/android/core/core/com.oscleton.sdk/-oscleton-s-d-k/index.md
+        - Browser: reference/android/core/core/com.oscleton.sdk.browser/-browser/index.md
+        - Configuration: reference/android/core/core/com.oscleton.sdk.configuration/-configuration/index.md
+        - Controller: reference/android/core/core/com.oscleton.sdk/-controller/index.md
+        - Devices: reference/android/core/core/com.oscleton.sdk.devices/-devices.md
+        - LiveSet: reference/android/core/core/com.oscleton.sdk.liveset/-live-set/index.md
+        - Receiver: reference/android/core/core/com.oscleton.sdk/-receiver/index.md
+        - ReactiveReceiver: reference/android/core/core/com.oscleton.sdk/-reactive-receiver/index.md
+        - CallbackReceiver: reference/android/core/core/com.oscleton.sdk/-callback-receiver/index.md
+        - Tracks: reference/android/core/core/com.oscleton.sdk.tracks/-tracks.md
 
       - Enums:
-        - Overview: reference/android/core/com.oscleton.sdk.enums/index.md
-        - AppTrack: reference/android/core/com.oscleton.sdk.enums/-app-track/index.md
-        - AutomationState: reference/android/core/com.oscleton.sdk.enums/-automation-state/index.md
-        - LiveParameter: reference/android/core/com.oscleton.sdk.enums/-live-parameter/index.md
-        - SDKResult: reference/android/core/com.oscleton.sdk.enums/-s-d-k-result/index.md
-        - SendState: reference/android/core/com.oscleton.sdk.enums/-send-state/index.md
-        - SendType: reference/android/core/com.oscleton.sdk.enums/-send-type/index.md
-        - TrackType: reference/android/core/com.oscleton.sdk.enums/-track-type/index.md
+        - Overview: reference/android/core/core/com.oscleton.sdk.enums/index.md
+        - AppTrack: reference/android/core/core/com.oscleton.sdk.enums/-app-track/index.md
+        - AutomationState: reference/android/core/core/com.oscleton.sdk.enums/-automation-state/index.md
+        - LiveParameter: reference/android/core/core/com.oscleton.sdk.enums/-live-parameter/index.md
+        - SDKResult: reference/android/core/core/com.oscleton.sdk.enums/-s-d-k-result/index.md
+        - SendState: reference/android/core/core/com.oscleton.sdk.enums/-send-state/index.md
+        - SendType: reference/android/core/core/com.oscleton.sdk.enums/-send-type/index.md
+        - TrackType: reference/android/core/core/com.oscleton.sdk.enums/-track-type/index.md
       - Exceptions:
-        - Overview: reference/android/core/com.oscleton.sdk.exceptions/index.md
-        - OscletonSDKException: reference/android/core/com.oscleton.sdk.exceptions/-oscleton-s-d-k-exception/index.md
+        - Overview: reference/android/core/core/com.oscleton.sdk.exceptions/index.md
+        - OscletonSDKException: reference/android/core/core/com.oscleton.sdk.exceptions/-oscleton-s-d-k-exception/index.md
       - Listeners:
-        - Overview: reference/android/core/com.oscleton.sdk.listeners/index.md
-        - OnComputerIPDiscoveryCancelListener: reference/android/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-cancel-listener/index.md
-        - OnComputerIPDiscoveryErrorListener: reference/android/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-error-listener/index.md
-        - OnComputerIPDiscoveryProgressListener: reference/android/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-progress-listener/index.md
-        - OnComputerIPDiscoveryStartListener: reference/android/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-start-listener/index.md
-        - OnComputerIPDiscoverySuccessListener: reference/android/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-success-listener/index.md
-        - OnConnectionErrorListener: reference/android/core/com.oscleton.sdk.listeners/-on-connection-error-listener/index.md
-        - OnConnectionSuccessListener: reference/android/core/com.oscleton.sdk.listeners/-on-connection-success-listener/index.md
-        - OnMasterDeviceParameterChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-master-device-parameter-change-listener/index.md
-        - OnMasterParameterChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-master-parameter-change-listener/index.md
-        - OnQuitListener: reference/android/core/com.oscleton.sdk.listeners/-on-quit-listener/index.md
-        - OnReturnDeviceParameterChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-return-device-parameter-change-listener/index.md
-        - OnReturnParameterChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-return-parameter-change-listener/index.md
-        - OnStartListener: reference/android/core/com.oscleton.sdk.listeners/-on-start-listener/index.md
-        - OnTempoChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-tempo-change-listener/index.md
-        - OnTrackDeviceParameterChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-track-device-parameter-change-listener/index.md
-        - OnTrackParameterChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-track-parameter-change-listener/index.md
-        - OnTrackSendChangeListener: reference/android/core/com.oscleton.sdk.listeners/-on-track-send-change-listener/index.md
+        - Overview: reference/android/core/core/com.oscleton.sdk.listeners/index.md
+        - OnComputerIPDiscoveryCancelListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-cancel-listener/index.md
+        - OnComputerIPDiscoveryErrorListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-error-listener/index.md
+        - OnComputerIPDiscoveryProgressListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-progress-listener/index.md
+        - OnComputerIPDiscoveryStartListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-start-listener/index.md
+        - OnComputerIPDiscoverySuccessListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-computer-i-p-discovery-success-listener/index.md
+        - OnConnectionErrorListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-connection-error-listener/index.md
+        - OnConnectionSuccessListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-connection-success-listener/index.md
+        - OnMasterDeviceParameterChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-master-device-parameter-change-listener/index.md
+        - OnMasterParameterChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-master-parameter-change-listener/index.md
+        - OnQuitListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-quit-listener/index.md
+        - OnReturnDeviceParameterChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-return-device-parameter-change-listener/index.md
+        - OnReturnParameterChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-return-parameter-change-listener/index.md
+        - OnStartListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-start-listener/index.md
+        - OnTempoChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-tempo-change-listener/index.md
+        - OnTrackDeviceParameterChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-track-device-parameter-change-listener/index.md
+        - OnTrackParameterChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-track-parameter-change-listener/index.md
+        - OnTrackSendChangeListener: reference/android/core/core/com.oscleton.sdk.listeners/-on-track-send-change-listener/index.md
       - Models:
-        - Overview: reference/android/core/com.oscleton.sdk.models/index.md
-        - Browser: reference/android/core/com.oscleton.sdk.browser.models/-browser-item/index.md
-        - Device: reference/android/core/com.oscleton.sdk.models/-device/index.md
-        - DeviceParameter: reference/android/core/com.oscleton.sdk.models/-device-parameter/index.md
-        - MasterParameter: reference/android/core/com.oscleton.sdk.models/-master-parameter/index.md
-        - ReturnParameter: reference/android/core/com.oscleton.sdk.models/-return-parameter/index.md
-        - Send: reference/android/core/com.oscleton.sdk.models/-send/index.md
-        - TrackParameter: reference/android/core/com.oscleton.sdk.models/-track-parameter/index.md
+        - Overview: reference/android/core/core/com.oscleton.sdk.models/index.md
+        - Browser: reference/android/core/core/com.oscleton.sdk.browser.models/-browser-item/index.md
+        - Device: reference/android/core/core/com.oscleton.sdk.models/-device/index.md
+        - DeviceParameter: reference/android/core/core/com.oscleton.sdk.models/-device-parameter/index.md
+        - MasterParameter: reference/android/core/core/com.oscleton.sdk.models/-master-parameter/index.md
+        - ReturnParameter: reference/android/core/core/com.oscleton.sdk.models/-return-parameter/index.md
+        - Send: reference/android/core/core/com.oscleton.sdk.models/-send/index.md
+        - TrackParameter: reference/android/core/core/com.oscleton.sdk.models/-track-parameter/index.md
       - Utils:
-        - Overview: reference/android/core/com.oscleton.sdk.utils/index.md
-        - Empty: reference/android/core/com.oscleton.sdk.utils/-empty/index.md
-        - NetworkUtils: reference/android/core/com.oscleton.sdk.utils/-network-utils/index.md
+        - Overview: reference/android/core/core/com.oscleton.sdk.utils/index.md
+        - Empty: reference/android/core/core/com.oscleton.sdk.utils/-empty/index.md
+        - NetworkUtils: reference/android/core/core/com.oscleton.sdk.utils/-network-utils/index.md
 
     - core-callbacks:
         - Package Index: reference/android/core-callbacks/index.md
         - CallbackProvider:
-          - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks/index.md
+          - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks/index.md
           - Configuration:
-            - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.configuration.-configuration/index.md
-            - ConfigurationCallbacks: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration/-configuration-callbacks/index.md
+            - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.configuration.-configuration/index.md
+            - ConfigurationCallbacks: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration/-configuration-callbacks/index.md
             - Listeners:
-              - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/index.md
-              - OnComputerIPDiscoveryCancelListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-cancel-listener/index.md
-              - OnComputerIPDiscoveryErrorListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-error-listener/index.md
-              - OnComputerIPDiscoveryProgressListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-progress-listener/index.md
-              - OnComputerIPDiscoveryStartListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-start-listener/index.md
-              - OnComputerIPDiscoverySuccessListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-success-listener/index.md
-              - OnConnectionErrorListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-connection-error-listener/index.md
-              - OnConnectionSuccessListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-connection-success-listener/index.md
-              - OnQuitListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-quit-listener/index.md
-              - OnStartListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-start-listener/index.md
+              - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/index.md
+              - OnComputerIPDiscoveryCancelListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-cancel-listener/index.md
+              - OnComputerIPDiscoveryErrorListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-error-listener/index.md
+              - OnComputerIPDiscoveryProgressListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-progress-listener/index.md
+              - OnComputerIPDiscoveryStartListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-start-listener/index.md
+              - OnComputerIPDiscoverySuccessListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-computer-i-p-discovery-success-listener/index.md
+              - OnConnectionErrorListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-connection-error-listener/index.md
+              - OnConnectionSuccessListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-connection-success-listener/index.md
+              - OnQuitListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-quit-listener/index.md
+              - OnStartListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.configuration.listeners/-on-start-listener/index.md
           - Devices:
-            - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.devices.-devices/index.md
-            - DevicesCallbacks: reference/android/core-callbacks/com.oscleton.sdk.callbacks.devices/-devices-callbacks/index.md
+            - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.devices.-devices/index.md
+            - DevicesCallbacks: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.devices/-devices-callbacks/index.md
             - Listeners:
-              - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/index.md
-              - OnMasterDeviceParameterChangeListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/-on-master-device-parameter-change-listener/index.md
-              - OnReturnDeviceParameterChangeListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/-on-return-device-parameter-change-listener/index.md
-              - OnTrackDeviceParameterChangeListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/-on-track-device-parameter-change-listener/index.md
+              - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/index.md
+              - OnMasterDeviceParameterChangeListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/-on-master-device-parameter-change-listener/index.md
+              - OnReturnDeviceParameterChangeListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/-on-return-device-parameter-change-listener/index.md
+              - OnTrackDeviceParameterChangeListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.devices.listeners/-on-track-device-parameter-change-listener/index.md
           - LiveSet:
-            - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.liveset.-live-set/index.md
-            - LiveSetCallbacks: reference/android/core-callbacks/com.oscleton.sdk.callbacks.liveset/-live-set-callbacks/index.md
+            - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.liveset.-live-set/index.md
+            - LiveSetCallbacks: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.liveset/-live-set-callbacks/index.md
             - Listeners:
-              - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks.liveset.listeners/index.md
-              - OnTempoChangeListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.liveset.listeners/-on-tempo-change-listener/index.md
+              - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.liveset.listeners/index.md
+              - OnTempoChangeListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.liveset.listeners/-on-tempo-change-listener/index.md
           - Tracks:
-            - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.tracks.-tracks/index.md
-            - TracksCallbacks: reference/android/core-callbacks/com.oscleton.sdk.callbacks.tracks/-tracks-callbacks/index.md
+            - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks/com.oscleton.sdk.tracks.-tracks/index.md
+            - TracksCallbacks: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.tracks/-tracks-callbacks/index.md
             - Listeners:
-              - Overview: reference/android/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/index.md
-              - OnMasterParameterChangeListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/-on-master-parameter-change-listener/index.md
-              - OnReturnParameterChangeListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/-on-return-parameter-change-listener/index.md
-              - OnTrackParameterChangeListener: reference/android/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/-on-track-parameter-change-listener/index.md
+              - Overview: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/index.md
+              - OnMasterParameterChangeListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/-on-master-parameter-change-listener/index.md
+              - OnReturnParameterChangeListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/-on-return-parameter-change-listener/index.md
+              - OnTrackParameterChangeListener: reference/android/core-core-callbacks/core-callbacks/com.oscleton.sdk.callbacks.tracks.listeners/-on-track-parameter-change-listener/index.md
 
     - core-rxjava2:
         - Package Index: reference/android/core-rxjava2/index.md
         - RxProvider:
-          - Overview: reference/android/core-rxjava2/com.oscleton.sdk.rx/index.md
-          - ConfigurationRx: reference/android/core-rxjava2/com.oscleton.sdk.rx/-configuration-rx/index.md
-          - LiveSetRx: reference/android/core-rxjava2/com.oscleton.sdk.rx/-live-set-rx/index.md
-          - DevicesRx: reference/android/core-rxjava2/com.oscleton.sdk.rx/-devices-rx/index.md
-          - TracksRx: reference/android/core-rxjava2/com.oscleton.sdk.rx/-tracks-rx/index.md
+          - Overview: reference/android/core-rx-java2/core-rxjava2/com.oscleton.sdk.rx/index.md
+          - ConfigurationRx: reference/android/core-rx-java2/core-rxjava2/com.oscleton.sdk.rx/-configuration-rx/index.md
+          - LiveSetRx: reference/android/core-rx-java2/core-rxjava2/com.oscleton.sdk.rx/-live-set-rx/index.md
+          - DevicesRx: reference/android/core-rx-java2/core-rxjava2/com.oscleton.sdk.rx/-devices-rx/index.md
+          - TracksRx: reference/android/core-rx-java2/core-rxjava2/com.oscleton.sdk.rx/-tracks-rx/index.md
 
   - iOS API reference:
     - Overview: reference/ios/README.md
